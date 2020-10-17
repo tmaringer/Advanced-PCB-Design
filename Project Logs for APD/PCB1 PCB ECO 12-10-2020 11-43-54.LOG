@@ -1,0 +1,22 @@
+Added Component: Designator=IC?(DIP794W56P254L3486H508Q28N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PIC16F1518-I/SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pic16f1518-isp/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/40001452F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PIC16F1518-I/SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-PIC16F1518-I/SP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=579-PIC16F1518-I%2FSP"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SchematicAPD Member=Component C? Cap
+Added Member To Class: ClassName=SchematicAPD Member=Component C? Cap
+Added Member To Class: ClassName=SchematicAPD Member=Component C? Cap
+Added Member To Class: ClassName=SchematicAPD Member=Component C? Cap
+Added Member To Class: ClassName=SchematicAPD Member=Component C? Cap
+Added Member To Class: ClassName=SchematicAPD Member=Component IC? REG103UA-3.3/2K5 
+Added Member To Class: ClassName=SchematicAPD Member=Component IC? PCF8574AT_3,512
+Added Member To Class: ClassName=SchematicAPD Member=Component IC? PIC16F1518-I_SP
+Added Member To Class: ClassName=SchematicAPD Member=Component J? DIP-8
+Added Member To Class: ClassName=SchematicAPD Member=Component J? USB-B
+Added Member To Class: ClassName=SchematicAPD Member=Component J? M20-7821642
+Added Member To Class: ClassName=SchematicAPD Member=Component J? DIP-8
+Added Member To Class: ClassName=SchematicAPD Member=Component R? Res1

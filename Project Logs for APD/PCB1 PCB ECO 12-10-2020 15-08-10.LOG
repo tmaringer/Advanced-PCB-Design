@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=IC3-8
+Added Pin To Net: NetName=GND Pin=IC3-19
+Added Pin To Net: NetName=+5 Pin=IC3-20
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=+5 Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Member To Class: ClassName=PIC Member=Component IC3 PIC16F1518-I_SP
+Added Member To Class: ClassName=LCD Member=Component IC4 PCF8574AT_3,512

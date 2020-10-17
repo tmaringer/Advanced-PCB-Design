@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=J? Old Footprint=DIPS762W61P254L1016H525Q8N New Footprint=DIPS762W51P254L1016H419Q8N
+Change Component Comment : Designator=J? Old Comment=DIP-8 New Comment=110-41-308-41-001000
+Change component parameters: Designator = "J?" ("J?"); Footprint = "DIPS762W61P254L1016H525Q8N"; UniqueID = "\WVHAHMHY" ("\WVHAHMHY")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/110-41-308-41-001000/mill-max"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.19mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Mill-Max"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "110-41-308-41-001000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=Temp&Data
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component IC? REG103UA-5/2K5
+Added Member To Class: ClassName=LCD Member=Component J? M20-7821642
+Added Member To Class: ClassName=PIC Member=Component J? SSW-114-01-G-S
+Added Member To Class: ClassName=PIC Member=Component J? SSW-114-01-G-S
+Added Member To Class: ClassName=Power Member=Component J? USB-B
+Added Member To Class: ClassName=LCD Member=Component R? RPot

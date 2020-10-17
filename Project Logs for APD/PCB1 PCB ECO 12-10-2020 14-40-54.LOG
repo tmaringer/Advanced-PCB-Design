@@ -1,0 +1,37 @@
+Change Component Comment : Designator=J? Old Comment=110-41-308-41-001000 New Comment=DS1621 TEMP
+Added Component: Designator=J?(DIPS762W51P254L1016H419Q8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.arrow.com/en/products/110-41-308-41-001000/mill-max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.19mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Mill-Max"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "110-41-308-41-001000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=NetIC?_15 Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=NetIC?_14 Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-5
+Added Pin To Net: NetName=NetIC?_15 Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=NetIC?_14 Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=+5 Pin=J?-8
+Added Pin To Net: NetName=+5 Pin=J?-8
+Added Pin To Net: NetName=NetJ?_7 Pin=J?-7
+Added Net: Name=NetJ?_7
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component IC? REG103UA-5/2K5
+Added Member To Class: ClassName=LCD Member=Component J? M20-7821642
+Added Member To Class: ClassName=PIC Member=Component J? SSW-114-01-G-S
+Added Member To Class: ClassName=PIC Member=Component J? SSW-114-01-G-S
+Added Member To Class: ClassName=Power Member=Component J? USB-B
+Added Member To Class: ClassName=Temp&Data Member=Component J? DS1621 TEMP
+Added Member To Class: ClassName=Temp&Data Member=Component J? 24LC256 MEM
+Added Member To Class: ClassName=LCD Member=Component R? RPot

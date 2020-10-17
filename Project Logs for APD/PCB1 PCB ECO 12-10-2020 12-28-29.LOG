@@ -1,0 +1,31 @@
+Added Component: Designator=J?(DIPS762W61P254L1016H525Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a08-lc-tt/assmann-wsw-components-inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ASSMANN WSW components GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(DIPS762W61P254L1016H525Q8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/a08-lc-tt/assmann-wsw-components-inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ASSMANN WSW components GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component C? Cap
+Added Member To Class: ClassName=Power Member=Component IC? REG103UA-5/2K5
+Added Member To Class: ClassName=LCD Member=Component J? M20-7821642
+Added Member To Class: ClassName=PIC Member=Component J? SSW-114-01-G-S
+Added Member To Class: ClassName=PIC Member=Component J? SSW-114-01-G-S
+Added Member To Class: ClassName=Power Member=Component J? DIP-8
+Added Member To Class: ClassName=Power Member=Component J? DIP-8
+Added Member To Class: ClassName=Power Member=Component J? USB-B
+Added Member To Class: ClassName=LCD Member=Component R? RPot
