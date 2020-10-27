@@ -1,0 +1,69 @@
+Change Component Footprint: Designator=R3 Old Footprint=Resistor 1210 New Footprint=Resistor 1206
+Added Component: Designator=J9(USB B)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "USBR-B-S-S-O-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/usbr-b-s-s-o-th/samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/USBR-B-S-S-O-TH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USBR-B-S-S-O-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-USBRBSSOTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/USBR-B-S-S-O-TH?qs=Sk19l0%2FxcWm4mdmoDSlrBQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5-USB Pin=J9-1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Member To Class: ClassName=Power Member=Component C1 Cap
+Added Member To Class: ClassName=Power Member=Component C2 Cap Pol2
+Added Member To Class: ClassName=Power Member=Component C3 Cap Pol2
+Added Member To Class: ClassName=UART Member=Component C5 Cap Pol2
+Added Member To Class: ClassName=Power Member=Component C6 Cap
+Added Member To Class: ClassName=Switch Member=Component D2 LED1
+Added Member To Class: ClassName=Switch Member=Component D3 LED1
+Added Member To Class: ClassName=Switch Member=Component D4 LED1
+Added Member To Class: ClassName=Switch Member=Component D5 LED1
+Added Member To Class: ClassName=Power Member=Component D6 LTL1BEKVJNN
+Added Member To Class: ClassName=Switch Member=Component D6 LED1
+Added Member To Class: ClassName=Power Member=Component IC1 MIC5209-3.3YS-TR
+Added Member To Class: ClassName=Power Member=Component IC2 MIC5209-5.0YS
+Added Member To Class: ClassName=PIC Member=Component IC3 PIC16F1518-I_SP
+Added Member To Class: ClassName=LCD-MEM-TEMP Member=Component IC4 PCF8574AT_3,512
+Added Member To Class: ClassName=Power Member=Component J1 PJ-002A
+Added Member To Class: ClassName=PIC Member=Component J4 SSW-114-01-G-S
+Added Member To Class: ClassName=PIC Member=Component J5 SSW-114-01-G-S
+Added Member To Class: ClassName=LCD-MEM-TEMP Member=Component J6 M20-7821642
+Added Member To Class: ClassName=UART Member=Component J9 USB-B
+Added Member To Class: ClassName=Power Member=Component R1 Res1
+Added Member To Class: ClassName=Power Member=Component R2 Res1
+Added Member To Class: ClassName=Power Member=Component R3 Res1
+Added Member To Class: ClassName=Power Member=Component R4 RPot
+Added Member To Class: ClassName=Power Member=Component R5 RPot
+Added Member To Class: ClassName=Power Member=Component R6 RPot
+Added Member To Class: ClassName=PIC Member=Component R9 Res1
+Added Member To Class: ClassName=PIC Member=Component R10 Res1
+Added Member To Class: ClassName=LCD-MEM-TEMP Member=Component R11 Res1
+Added Member To Class: ClassName=LCD-MEM-TEMP Member=Component R12 RPot
+Added Member To Class: ClassName=UART Member=Component R13 Res1
+Added Member To Class: ClassName=UART Member=Component R14 Res1
+Added Member To Class: ClassName=Switch Member=Component R15 Res1
+Added Member To Class: ClassName=Switch Member=Component R16 Res1
+Added Member To Class: ClassName=Switch Member=Component R17 Res1
+Added Member To Class: ClassName=Switch Member=Component R18 Res1
+Added Member To Class: ClassName=Switch Member=Component R19 Res1
+Added Member To Class: ClassName=Switch Member=Component R20 Res1
+Added Member To Class: ClassName=Switch Member=Component R21 Res1
+Added Member To Class: ClassName=Switch Member=Component R22 Res1
+Added Member To Class: ClassName=Switch Member=Component R23 Res1
+Added Member To Class: ClassName=Switch Member=Component R24 Res1
+Added Member To Class: ClassName=Switch Member=Component R25 Res1
+Added Member To Class: ClassName=Power Member=Component R26 Res1
+Added Member To Class: ClassName=Switch Member=Component R26 Res1
+Added Member To Class: ClassName=Power Member=Component R27 Res1
+Added Member To Class: ClassName=Switch Member=Component R27 Res1
+Added Member To Class: ClassName=Switch Member=Component R28 Res1
+Added Member To Class: ClassName=Switch Member=Component R29 Res1
+Added Member To Class: ClassName=PIC Member=Component S1 SW-PB
+Added Member To Class: ClassName=Switch Member=Component S2 SW-PB
+Added Member To Class: ClassName=Switch Member=Component S3 SW-PB
+Added Member To Class: ClassName=Switch Member=Component S4 SW-PB
+Added Member To Class: ClassName=Switch Member=Component S5 SW-PB
+Added Member To Class: ClassName=Switch Member=Component S6 SW-PB
