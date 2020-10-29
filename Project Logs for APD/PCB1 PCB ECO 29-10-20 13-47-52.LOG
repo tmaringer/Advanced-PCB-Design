@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=NetJ11_3 Pin=R16-1
+Removed Pin From Net: NetName=NetJ11_1 Pin=R17-2
+Removed Pin From Net: NetName=NetJ10_3 Pin=R19-1
+Removed Pin From Net: NetName=NetJ10_1 Pin=R20-2
+Removed Pin From Net: NetName=NetIC5_1 Pin=R25-2
+Removed Pin From Net: NetName=NetIC5_2 Pin=R26-1
+Removed Pin From Net: NetName=NetIC5_13 Pin=R27-2
+Removed Pin From Net: NetName=NetIC5_12 Pin=R29-1
+Change Component Footprint: Designator=C5 Old Footprint=Cap 100nF New Footprint=cap 4.7uf
+Change Component Footprint: Designator=J2 Old Footprint=header 3 pins male New Footprint=Header 3 pins fem.
+Change Component Footprint: Designator=R1 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R2 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R3 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R7 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R8 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R9 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R10 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R11 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R15 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R16 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R17 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R18 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R19 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R20 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R21 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R22 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R23 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R24 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R25 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R26 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R27 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R28 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Change Component Footprint: Designator=R29 Old Footprint=Resistor 1206 New Footprint=Resistor 1210
+Added Component: Designator=D7(LED 3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R30(Resistor 1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=NetIC5_12 Pin=R16-1
+Added Pin To Net: NetName=NetIC5_13 Pin=R17-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R19-1
+Added Pin To Net: NetName=NetIC5_1 Pin=R20-2
+Added Pin To Net: NetName=NetJ10_1 Pin=R25-2
+Added Pin To Net: NetName=NetJ10_3 Pin=R26-1
+Added Pin To Net: NetName=NetJ11_1 Pin=R27-2
+Added Pin To Net: NetName=NetJ11_3 Pin=R29-1
+Added Pin To Net: NetName=+5 Pin=R30-1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R30-2
+Added Net: Name=NetD7_1
+Added Member To Class: ClassName=PIC Member=Component D7 LED1
+Added Member To Class: ClassName=PIC Member=Component R30 Res1
+Added Room: Name=LCD-MEM-TEMP
+Added Room: Name=PIC
+Added Room: Name=Power
+Added Room: Name=Switch
+Added Room: Name=UART
