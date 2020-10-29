@@ -1,0 +1,24 @@
+Change Component Comment : Designator=J8 Old Comment=DS1621 TEMP New Comment=24LC256 MEM
+Added Pin To Net: NetName=NetIC4_14 Pin=IC3-14
+Added Pin To Net: NetName=NetIC4_15 Pin=IC3-15
+Added Pin To Net: NetName=NetIC3_23 Pin=IC5-4
+Added Pin To Net: NetName=NetIC3_7 Pin=IC5-9
+Added Pin To Net: NetName=NetIC3_6 Pin=IC5-10
+Added Pin To Net: NetName=NetIC3_5 Pin=IC5-11
+Added Pin To Net: NetName=NetIC3_22 Pin=IC5-14
+Added Pin To Net: NetName=NetIC3_21 Pin=IC5-15
+Added Pin To Net: NetName=NetIC4_14 Pin=J4-14
+Added Pin To Net: NetName=NetIC4_15 Pin=J5-14
+Added Pin To Net: NetName=NetIC3_27 Pin=J8-7
+Added Pin To Net: NetName=NetIC3_24 Pin=J10-2
+Added Pin To Net: NetName=NetIC3_25 Pin=J11-2
+Added Pin To Net: NetName=NetIC3_2 Pin=R1-1
+Added Pin To Net: NetName=NetIC3_3 Pin=R2-1
+Added Pin To Net: NetName=NetIC3_4 Pin=R3-1
+Added Pin To Net: NetName=NetIC3_13 Pin=R7-1
+Added Pin To Net: NetName=NetIC3_12 Pin=R8-1
+Added Pin To Net: NetName=NetIC3_18 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=NetIC3_17 Pin=U1-30
+Change Net Name : Old Net Name=NetIC4_14 New Net Name=NetIC3_14
+Change Net Name : Old Net Name=NetIC4_15 New Net Name=NetIC3_15
