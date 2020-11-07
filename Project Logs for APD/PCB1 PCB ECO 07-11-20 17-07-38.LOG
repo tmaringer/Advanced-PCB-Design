@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=+5-USB Pin=U1-1
+Removed Pin From Net: NetName=NetIC3_18 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-17
+Removed Pin From Net: NetName=+5-USB Pin=U1-18
+Removed Pin From Net: NetName=+5-USB Pin=U1-19
+Removed Pin From Net: NetName=GND Pin=U1-20
+Removed Pin From Net: NetName=GND Pin=U1-24
+Removed Pin From Net: NetName=GND Pin=U1-26
+Removed Pin From Net: NetName=+5-USB Pin=USB-1
+Removed Pin From Net: NetName=GND Pin=USB-4
+Removed Member From Class: ClassName=Switch Member=ON
+Removed Member From Class: ClassName=UART Member=U1
+Removed Member From Class: ClassName=UART Member=USB
+Added Component: Designator=J9(USB B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "USBR-B-S-S-O-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/usbr-b-s-s-o-th/samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/USBR-B-S-S-O-TH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USBR-B-S-S-O-TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-USBRBSSOTH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/USBR-B-S-S-O-TH?qs=Sk19l0%2FxcWm4mdmoDSlrBQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5-USB Pin=J9-1
+Added Pin To Net: NetName=GND Pin=J9-4
+Added Pin To Net: NetName=NetIC6_1 Pin=R14-2
+Added Net: Name=NetIC6_1
+Added Pin To Net: NetName=NetIC6_15 Pin=J9-3
+Added Net: Name=NetIC6_15
+Added Pin To Net: NetName=NetIC6_16 Pin=J9-2
+Added Net: Name=NetIC6_16
+Added Member To Class: ClassName=UART Member=Component J9 USB-B
+Added Member To Class: ClassName=LCD-MEM-TEMP Member=Component R12 Res1

@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=+5-USB Pin=U1-1
+Removed Pin From Net: NetName=NetIC3_18 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-17
+Removed Pin From Net: NetName=+5-USB Pin=U1-18
+Removed Pin From Net: NetName=+5-USB Pin=U1-19
+Removed Pin From Net: NetName=GND Pin=U1-20
+Removed Pin From Net: NetName=GND Pin=U1-24
+Removed Pin From Net: NetName=GND Pin=U1-26
+Removed Member From Class: ClassName=Switch Member=ON
+Removed Member From Class: ClassName=UART Member=U1
+Change Component Designator: OldDesignator=B1 NewDesignator=S2
+Change Component Designator: OldDesignator=B2 NewDesignator=S3
+Change Component Designator: OldDesignator=B3 NewDesignator=S4
+Change Component Designator: OldDesignator=B4 NewDesignator=S5
+Change Component Designator: OldDesignator=B5 NewDesignator=S6
+Change Component Designator: OldDesignator=BI LED NewDesignator=D1
+Change Component Designator: OldDesignator=BRT NewDesignator=R13
+Change Component Designator: OldDesignator=DC NewDesignator=J3
+Change Component Designator: OldDesignator=LDC NewDesignator=J6
+Change Component Designator: OldDesignator=LED1 NewDesignator=D3
+Change Component Designator: OldDesignator=LED2 NewDesignator=D4
+Change Component Designator: OldDesignator=LED3 NewDesignator=D5
+Change Component Designator: OldDesignator=LED4 NewDesignator=D6
+Change Component Designator: OldDesignator=LED5 NewDesignator=D7
+Change Component Designator: OldDesignator=MEM NewDesignator=J8
+Change Component Designator: OldDesignator=ON NewDesignator=D2
+Change Component Designator: OldDesignator=POT1 NewDesignator=R4
+Change Component Designator: OldDesignator=POT2 NewDesignator=R5
+Change Component Designator: OldDesignator=POT3 NewDesignator=R6
+Change Component Designator: OldDesignator=RESET NewDesignator=S1
+Change Component Designator: OldDesignator=SW4 NewDesignator=J10
+Change Component Designator: OldDesignator=SW5 NewDesignator=J11
+Change Component Designator: OldDesignator=TEMP NewDesignator=J7
+Change Component Designator: OldDesignator=uC NewDesignator=IC3
+Change Component Designator: OldDesignator=USB NewDesignator=J9
+Added Pin To Net: NetName=NetIC6_1 Pin=R14-2
+Added Net: Name=NetIC6_1
+Added Pin To Net: NetName=NetIC6_15 Pin=J9-3
+Added Net: Name=NetIC6_15
+Added Pin To Net: NetName=NetIC6_16 Pin=J9-2
+Added Net: Name=NetIC6_16
+Change Class Name : Old Net Name=UART New Net Name=UART-test-del-other-while-testing
+Added Member To Class: ClassName=Switch Member=Component D3 LED1
+Added Member To Class: ClassName=Switch Member=Component D4 LED1
+Added Member To Class: ClassName=Switch Member=Component D6 LED1
+Added Member To Class: ClassName=Switch Member=Component D7 LED1
+Added Member To Class: ClassName=Switch Member=Component J11 M20-9990346
+Added Member To Class: ClassName=LCD-MEM-TEMP Member=Component R12 Res1
+Added Member To Class: ClassName=LCD-MEM-TEMP Member=Component R13 RPot
