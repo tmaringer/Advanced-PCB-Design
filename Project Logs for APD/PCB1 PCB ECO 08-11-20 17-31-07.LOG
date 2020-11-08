@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=IC5-6
+Added Member To Class: ClassName=Power Member=Component C1 Cap
+Added Member To Class: ClassName=Power Member=Component C3 Cap
