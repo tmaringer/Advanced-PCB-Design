@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetIC3_17 Pin=R14-1
+Removed Pin From Net: NetName=NetIC3_18 Pin=R30-1
+Added Pin To Net: NetName=NetIC3_18 Pin=R14-1
+Added Pin To Net: NetName=NetIC3_17 Pin=R30-1

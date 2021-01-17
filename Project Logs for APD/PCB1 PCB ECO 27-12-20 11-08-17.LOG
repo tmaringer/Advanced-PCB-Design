@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=B1 NewDesignator=S2
+Change Component Designator: OldDesignator=B2 NewDesignator=S3
+Change Component Designator: OldDesignator=B3 NewDesignator=S4
+Change Component Designator: OldDesignator=B4 NewDesignator=S5
+Change Component Designator: OldDesignator=B5 NewDesignator=S6
+Change Component Designator: OldDesignator=LED3 NewDesignator=D5
+Change Component Designator: OldDesignator=LED4 NewDesignator=D6
+Change Component Designator: OldDesignator=LED5 NewDesignator=D7
+Added Member To Class: ClassName=Switch Member=Component D6 LED1
+Added Member To Class: ClassName=Switch Member=Component D7 LED1
